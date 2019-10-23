@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="label_restart_button">Restart</string>
+    <string name="default_title">Who will win?</string>
+</resources>
